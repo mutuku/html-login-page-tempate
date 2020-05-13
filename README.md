@@ -18,7 +18,7 @@ Basic understanding of HTML and CSS is needed in order to edit this template
 
 ## Authors
 
-* **Mutuku Ndeti** - *Initial work* - [](https://github.com/mutuku)
+* **Mutuku Ndeti** - [](https://github.com/mutuku)
 
 ## License
 
